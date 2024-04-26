@@ -1,5 +1,5 @@
 # Carles Belmonte
-Tech enthusiast with a passion for self-hosting, music, videogames and anything with wheels.
+Tech enthusiast with a passion for self-hosting, videogames, music and anything with wheels.
 <!--
 **crlxs/crlxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
