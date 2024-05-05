@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ## Currently working on 💽
 - 💾 [Homelab](https://github.com/crlxs/homelab). Documenting my homelab, where I self-host services for me and my family and test new things.
 - ⚫ [Dotfiles](https://github.com/crlxs/dotfiles). My Linux dotfiles, I have embraced the [suckless.org] philosophy!
-- 🏆📊 [Leaguealytics](https://github.com/crlxs/leaguealytics). Analysis/game outcome prediction for League of Legends, using Python and the Selenium WebDriver to scrape data from various websites.
+- 🏆📊 [Leaguealytics](https://github.com/crlxs/leaguealytics). Analysis/game outcome prediction for League of Legends, using Python and the Selenium WebDriver.
