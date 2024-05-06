@@ -1,5 +1,3 @@
-# Carles Belmonte
-Tech enthusiast with a passion for self-hosting, videogames, music and anything with wheels.
 <!--
 **crlxs/crlxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Carles Belmonte
+Tech enthusiast with a passion for self-hosting, videogames, music and anything with wheels.
 
 ## Currently working on 💾
 - 🖥 **[Homelab](https://github.com/crlxs/homelab).** Documenting my homelab, where I self-host services for me and my family and test new things.
