@@ -17,5 +17,5 @@ Tech enthusiast with a passion for self-hosting, videogames, music and anything 
 
 ## Currently working on 💾
 - 🖥 **[Homelab](https://github.com/crlxs/homelab).** Documenting my homelab, where I self-host services for me and my family and test new things.
-- ⚫ **[Dotfiles](https://github.com/crlxs/dotfiles).** My Linux dotfiles, embracing the [suckless.org](https://suckless.org/philosophy/) philosophy.
+- ⚫ **[Dotfiles](https://github.com/crlxs/dotfiles).** My Linux dotfiles, using my forks of [suckless.org](https://suckless.org/philosophy/) software: [dwm](https://github.com/crlxs/dwm), [dmenu](https://github.com/crlxs/dmenu) and [st](https://github.com/crlxs/st).
 - 🏆 **[Leaguealytics](https://github.com/crlxs/leaguealytics).** Analysis/game outcome prediction for the League of Legends competitive scene, using Python and the Selenium WebDriver.
