@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Carles Belmonte
-Irelia enthusiast with a passion for self-hosting, videogames, music and anything with wheels.
+Self-hosting, videogames, music and anything with wheels.
 
 ## Currently working on 💾
 - 🖥 **[Homelab](https://github.com/crlxs/homelab) →** Documenting my homelab, where I self-host services for me and my family and test new things.
