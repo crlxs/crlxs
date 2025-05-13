@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚙
 <p align="left">
   <!-- Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,js,ts,react,tailwind,postgres,redis,mongodb,grafana,docker,kubernetes,aws" height="50">
+    <img src="https://skillicons.dev/icons?i=linux,debian,redhat,bash,ansible,terraform,html,css,selenium,docker,kubernetes,go,gcp,git,grafana,prometheus,neovim,lua" height="50">
   </a>
 </p>
 
