@@ -12,8 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Carles Belmonte
-Self-hosting, videogames, music and anything with wheels.
+<p align="left">
+  <!-- Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,flask,js,ts,react,tailwind,postgres,redis,mongodb,grafana,docker,kubernetes,aws" height="50">
+  </a>
+</p>
 
 ## Currently working on 💾
 - 🖥 **[Homelab](https://github.com/crlxs/homelab) →** Documenting my homelab, where I self-host services for me and my family and test new things.
