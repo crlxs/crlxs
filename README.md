@@ -11,16 +11,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Technologies I use
 <p align="left">
-  <!-- Skill Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=debian,bash,go,neovim" height="50">
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,terraform,ansible,grafana,prometheus,html,css,selenium" height="50">
   </a>
 </p>
+-->
+
+## Technologies I use
+
+### My daily drivers
+<img src="https://skillicons.dev/icons?i=debian,bash,go,neovim" height="50">
+
+### At work
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,terraform,ansible,grafana,prometheus,html,css,selenium" height="50">
 
 ## Currently working on 💾
 - 🖥 **[Homelab](https://github.com/crlxs/homelab) →** Documenting my homelab, where I self-host services for me and my family and test new things.
