@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚙
+## Technologies I use
 <p align="left">
   <!-- Skill Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,redhat,bash,ansible,terraform,html,css,selenium,docker,kubernetes,go,gcp,git,grafana,prometheus,neovim,lua" height="50">
+    <img src="https://skillicons.dev/icons?i=debian,bash,go,neovim" height="50">
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,gcp,terraform,ansible,grafana,prometheus,html,css,selenium" height="50">
   </a>
 </p>
 
