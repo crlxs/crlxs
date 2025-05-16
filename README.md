@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 - 🏆 **[Leaguealytics](https://github.com/crlxs/leaguealytics) →** Analysis/game outcome prediction for the League of Legends competitive scene, using Python and the Selenium WebDriver.
 - ⚫ **[Rice](https://github.com/crlxs/rice) + [Dotfiles](https://github.com/crlxs/dotfiles) →** Git bare repositoy with my Linux dotfiles, following this hacker news [post](news.ycombinator.com/item?id=11070797)/Atlassian [article](https://www.atlassian.com/git/tutorials/dotfiles), using my forks of [suckless.org](https://suckless.org/philosophy/) software: [dwm](https://github.com/crlxs/dwm), [dmenu](https://github.com/crlxs/dmenu) and [st](https://github.com/crlxs/st). Ansible playbook/Shell script at [rice](https://github.com/crlxs/rice) will bootstrap my environment from scratch on a fresh Debian stable install.
 
+## Next 💾
+- http server in C
+- chat room in Go
+
 <details>
     <summary>⚡ Stats</summary>
 
